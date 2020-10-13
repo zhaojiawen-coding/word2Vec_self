@@ -1,5 +1,6 @@
 # word2Vec_self
 word2vec学习代码
+
 1.跑通preprocess.py
 
 2. 跑通data_loader.py
